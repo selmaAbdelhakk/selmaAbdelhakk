@@ -2,7 +2,7 @@
 Hello! I am Selma Abdelhakk, a student passionate about software development and constantly looking for growth. Currently, I continue my studies in the field of information technology while devoting my free time to strengthening my development skills.
 
 - 📚 I’m currently learning everything about Frontend and Backend technologies 😅
-- 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
+- 💪🏼 Future Goals: "Explore new technologies and always keep generating fresh ideas."
 
   
 ---
